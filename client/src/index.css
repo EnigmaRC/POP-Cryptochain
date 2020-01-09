@@ -1,0 +1,42 @@
+body {
+    background-color: #444444 !important;
+    color: #ffffff !important;
+    text-align: center !important;
+    font-size: 20px !important;
+    font-family: 'Quicksand' !important;
+    padding-top: 5% !important;
+    word-wrap: break-word !important;
+}
+
+.logo {
+    width: 20% !important;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.WalletInfo {
+    width: 500px !important;
+}
+
+.Block {
+    border: 1px solid #fff !important;
+    padding: 5% !important;
+    margin: 2% !important;
+}
+
+.Transaction {
+    padding: 5% !important;
+}
+
+.ConductTransaction, .TransactionPool {
+    margin: 10% !important;
+}
+
+a, a:hover {
+    color: #e66666 !important;
+    text-decoration: underline !important;
+}
